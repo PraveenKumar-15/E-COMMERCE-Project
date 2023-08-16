@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+  height: max(100%,1080px);
+}
+h1{
+    text-align: center;
+}
+p{
+    flex-direction: column;
+}
